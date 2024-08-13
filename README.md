@@ -1,11 +1,12 @@
-# Data Scientist
+# About me
+### I'm a second-year PhD student in social and personality psychology program at the University of Toronto. 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Research Interests
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D. Social-Personality Psychology | University of Toronto | May 2027 (Expected)						       		
+- M.S. General-Experimental Psychology | The University of Texas at Dallas | May 2023			        		
+- B.S. Psychology | University at Buffalo | May 2020
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

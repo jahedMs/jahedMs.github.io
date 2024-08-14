@@ -1,3 +1,7 @@
+---
+title: "Colin's Website"
+---
+
 # About me 👋 
 Hi everyone, my name is Colin :relaxed:. I'm a second-year PhD student in social and personality psychology program at the University of Toronto :canada:. 
 

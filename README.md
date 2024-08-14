@@ -7,16 +7,20 @@ title: "Colin's Website"
 Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and personality psychology program at the University of Toronto 🍁
 
 ## Research Interests
-I'm interested in diversity-related issues such as what is considered representation for marginalized groups, how to reduce different forms of prejudice, how those issues affect mental well-being. Part of my research also focuses on using psychometric techniques to develop valid assessments and advance measurement equity. 
+- Prejudice and Discrimination 😒
+- Diversity and Representation 🧑🏿‍🤝‍🧑🏻🌎
+- LGBTQ+ 🌈
+- Mental Well-being 😄
+- Measurement 📏
 
 ## Education
-**Ph.D.** Social-Personality Psychology
+**Ph.D.** Social-Personality Psychology |
 University of Toronto *May 2027 (Expected)*
 
-**M.A.** General-Experimental Psychology 
+**M.A.** General-Experimental Psychology |
 Wake Forest University *May 2023*			        		
 
-**B.A.** Psychology (Honors)
+**B.A.** Psychology (Honors) |
 University at Buffalo, SUNY *May 2020*
 
 
@@ -28,9 +32,8 @@ In this project, we examined how Asian Americans feel when experiencing ingroup 
 ![Ingroup](/assets/img/ingroup.png)
 
 ### Bisexual Singlism
-[Poster](https://www.mdpi.com)
 
-Examined something.
+In this work, we looked at whether people hold more prejudice towards bisexual people for being single than heterosexual and gay/lesbian people. Results showed that people do hold more . This prejudice primarily comes from non-single people. 
 
 ![Bi](/assets/img/bisingle.png)
 
@@ -40,8 +43,6 @@ Examined something.
 - Correlational Research & Statistics
 - Intergroup Relations
 
-## Mentoring
-
 
 
 ## Publications
@@ -49,4 +50,4 @@ Examined something.
 
 2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
 
-- [Full CV](https://docs.google.com)
+### [Full CV](https://docs.google.com)

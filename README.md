@@ -7,12 +7,12 @@ title: "Colin's Website"
 Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and personality psychology program at the University of Toronto 🍁
 
 ## Research Interests
-
+I'm interested in diversity-related issues such as what is considered representation for marginalized groups, how to reduce different forms of prejudice, how those issues affect mental well-being. Part of his research also focuses on using psychometric techniques to develop valid assessments and advance measurement equity. 
 
 ## Education
-- Ph.D. Social-Personality Psychology University of Toronto May 2027 (Expected)						 
-- M.A. General-Experimental Psychology Wake Forest University May 2023			        		
-- B.A. Psychology (Honors) University at Buffalo, SUNY May 2020
+Ph.D. Social-Personality Psychology |University of Toronto |May 2027 (Expected)						 
+M.A. General-Experimental Psychology |Wake Forest University |May 2023			        		
+B.A. Psychology (Honors) |University at Buffalo, SUNY |May 2020
 
 
 ## Ongoing Projects
@@ -39,3 +39,4 @@ Examined something.
 
 2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
 
+-[Full CV](https://docs.google.com)

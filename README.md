@@ -14,13 +14,13 @@ Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and p
 - Measurement 📏
 
 ## Education
-**Ph.D.** Social-Personality Psychology |
+**Ph.D.** Social-Personality Psychology  
 University of Toronto *May 2027 (Expected)*
 
-**M.A.** General-Experimental Psychology |
+**M.A.** General-Experimental Psychology  
 Wake Forest University *May 2023*			        		
 
-**B.A.** Psychology (Honors) |
+**B.A.** Psychology (Honors)  :-
 University at Buffalo, SUNY *May 2020*
 
 
@@ -42,7 +42,6 @@ In this work, we looked at whether people hold more prejudice towards bisexual p
 - Experimental Research & Statistics
 - Correlational Research & Statistics
 - Intergroup Relations
-
 
 
 ## Publications

@@ -53,7 +53,7 @@ University at Buffalo, SUNY *May 2020*
 
 ### Do People Hold More Prejudice Towards Bisexual Singles?
 
-- We asked people to rate single people with different sexual orientation backgrounds and found they hold more prejudice towards bisexual single people than gay/lesbian single people 
+- We asked people to rate single people with different sexual orientation backgrounds and found that people's assumptions about bisexual single people are more negative than gay/lesbian single people 
 - This prejudice primarily comes from non-single people 
 - The belief that bisexual people have more choices of potential dating partners partially explains the rating
 

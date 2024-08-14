@@ -1,4 +1,4 @@
-# About me 2024 👋 
+# About me 👋 
 Hi everyone, my name is Colin. I'm a second-year PhD student in social and personality psychology program at the University of Toronto. 
 
 ## Research Interests
@@ -18,7 +18,7 @@ Hi everyone, my name is Colin. I'm a second-year PhD student in social and perso
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
+## Ongoing Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 

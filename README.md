@@ -25,13 +25,15 @@ University at Buffalo, SUNY *May 2020*
 
 
 ## Projects in Preparation
-### What Type of Representation Do Marginalized Group Members Value More?
+### What Types of Representation Do Marginalized Group Members Value More?
 
-- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity or someone who shares their values
+- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity and/or someone who shares their values
 - So we developed a scale to measure identity-based and values-based representation and validated it in a workplace context
 - Both types of representation are correlated with well-being and performance outcomes
 - Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
 - However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
+
+![rep](/assets/img/rep.png)
 
 ### What Psychological Barriers Prevent LGB People from Coming Out?
 

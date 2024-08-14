@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme}}";
+header {
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
+}

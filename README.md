@@ -7,14 +7,17 @@ title: "Colin's Website"
 Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and personality psychology program at the University of Toronto 🍁
 
 ## Research Interests
-I'm interested in diversity-related issues such as what is considered representation for marginalized groups, how to reduce different forms of prejudice, how those issues affect mental well-being. Part of his research also focuses on using psychometric techniques to develop valid assessments and advance measurement equity. 
+I'm interested in diversity-related issues such as what is considered representation for marginalized groups, how to reduce different forms of prejudice, how those issues affect mental well-being. Part of my research also focuses on using psychometric techniques to develop valid assessments and advance measurement equity. 
 
 ## Education
-Ph.D. Social-Personality Psychology |University of Toronto |May 2027 (Expected)
+**Ph.D.** Social-Personality Psychology
+University of Toronto *May 2027 (Expected)*
 
-M.A. General-Experimental Psychology |Wake Forest University |May 2023			        		
+**M.A.** General-Experimental Psychology 
+Wake Forest University *May 2023*			        		
 
-B.A. Psychology (Honors) |University at Buffalo, SUNY |May 2020
+**B.A.** Psychology (Honors)
+University at Buffalo, SUNY *May 2020*
 
 
 ## Projects in Preparation
@@ -24,12 +27,12 @@ In this project, we examined how Asian Americans feel when experiencing ingroup 
 
 ![Ingroup](/assets/img/ingroup.png)
 
-### EFG
+### Bisexual Singlism
 [Poster](https://www.mdpi.com)
 
 Examined something.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bi](/assets/img/bisingle.png)
 
 ## Teaching
 - Social Psychology Lab

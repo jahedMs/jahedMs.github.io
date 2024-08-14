@@ -4,7 +4,7 @@ title: "Colin's Website"
 ---
 
 # About me 👋 
-Hi everyone, my name is Colin :relaxed: I'm a second-year PhD student in social and personality psychology program at the University of Toronto :canada: 
+Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and personality psychology program at the University of Toronto 🍁
 
 ## Research Interests
 
@@ -53,5 +53,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
 
-
-- [Data Science Blog](https://medium.com/@shawhin)

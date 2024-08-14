@@ -1,4 +1,15 @@
-title: K. Colin Li
 logo: /assets/img/headshot.jpeg
+title: K. Colin Li (he/him)
 show_downloads: false
 theme: jekyll-theme-minimal
+
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 

@@ -10,18 +10,19 @@ Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and p
 I'm interested in diversity-related issues such as what is considered representation for marginalized groups, how to reduce different forms of prejudice, how those issues affect mental well-being. Part of his research also focuses on using psychometric techniques to develop valid assessments and advance measurement equity. 
 
 ## Education
-Ph.D. Social-Personality Psychology |University of Toronto |May 2027 (Expected)						 
+Ph.D. Social-Personality Psychology |University of Toronto |May 2027 (Expected)
+
 M.A. General-Experimental Psychology |Wake Forest University |May 2023			        		
+
 B.A. Psychology (Honors) |University at Buffalo, SUNY |May 2020
 
 
-## Ongoing Projects
-### ABC
-[Poster](https://www.mdpi.com)
+## Projects in Preparation
+### Ingroup Prejudice
 
-Investigated something.
+In this project, we examined how Asian Americans feel when experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members). We found that Asian Americans who were prejudiced against by Asian peers felt significantly less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Ingroup](/assets/img/ingroup.png)
 
 ### EFG
 [Poster](https://www.mdpi.com)
@@ -30,8 +31,14 @@ Examined something.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Teaching & Mentoring
+## Teaching
 - Social Psychology Lab
+- Experimental Research & Statistics
+- Correlational Research & Statistics
+- Intergroup Relations
+
+## Mentoring
+
 
 
 ## Publications
@@ -39,4 +46,4 @@ Examined something.
 
 2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
 
--[Full CV](https://docs.google.com)
+- [Full CV](https://docs.google.com)

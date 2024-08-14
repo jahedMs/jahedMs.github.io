@@ -10,9 +10,9 @@ Hi everyone, my name is Colin 😊 I'm a second-year PhD student in social and p
 
 
 ## Education
-- Ph.D. Social-Personality Psychology | University of Toronto | May 2027 (Expected)						 
-- M.A. General-Experimental Psychology | Wake Forest University | May 2023			        		
-- B.A. Psychology (Honors) | University at Buffalo, SUNY | May 2020
+- Ph.D. Social-Personality Psychology University of Toronto May 2027 (Expected)						 
+- M.A. General-Experimental Psychology Wake Forest University May 2023			        		
+- B.A. Psychology (Honors) University at Buffalo, SUNY May 2020
 
 
 ## Ongoing Projects

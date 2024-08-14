@@ -20,20 +20,24 @@ University of Toronto *May 2027 (Expected)*
 **M.A.** General-Experimental Psychology  
 Wake Forest University *May 2023*			        		
 
-**B.A.** Psychology (Honors)  :-
+**B.A.** Psychology (Honors)  
 University at Buffalo, SUNY *May 2020*
 
 
 ## Projects in Preparation
-### Ingroup Prejudice
+### Does Ingroup Prejudice Hurt Asian Americans More?
 
-In this project, we examined how Asian Americans feel when experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members). We found that Asian Americans who were prejudiced against by Asian peers felt significantly less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites. 
+- We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
+- Results showed that Asian Americans who were rejected by Asian peers felt significantly less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
+- Expectation and prejudice attribution did not explain the difference
 
 ![Ingroup](/assets/img/ingroup.png)
 
-### Bisexual Singlism
+### Do People Hold More Prejudice Towards Bisexual Singles?
 
-In this work, we looked at whether people hold more prejudice towards bisexual people for being single than heterosexual and gay/lesbian people. Results showed that people do hold more . This prejudice primarily comes from non-single people. 
+- We asked people to rate single people with different sexual orientation background and found they hold more prejudice towards bisexual single people than gay/lesbian single people 
+- This prejudice primarily comes from non-single people 
+- The belief that bisexual people have more choices of potential dating partners partially explains the rating
 
 ![Bi](/assets/img/bisingle.png)
 

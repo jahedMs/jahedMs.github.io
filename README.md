@@ -59,16 +59,16 @@ University at Buffalo, SUNY *May 2020*
 
 ![Bi](/assets/img/bisingle.png)
 
-## Teaching
-- Social Psychology Lab
-- Experimental Research & Statistics
-- Correlational Research & Statistics
-- Intergroup Relations
-
 
 ## Publications
 1.	**Li, K. C.**, van Berlekom, E., Atwood, S., & Wang, Y.-C. (2024). Towards inclusive and equitable LGBTIQ+ measurement: Assessing gender and sexual orientation measures and scale validity in national surveys across 21 countries. *Journal of Social Issues*, 1-27. https://doi.org/10.1111/josi.12635 
 
 2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
+
+## Teaching
+- Social Psychology Lab
+- Experimental Research & Statistics
+- Correlational Research & Statistics
+- Intergroup Relations
 
 ### [Full CV](https://docs.google.com/document/d/18nSS4Ed2yeqdG1XgUmOSMgsSAdB1VLLOBWFVRXyKEJo/edit?usp=sharing)

@@ -33,6 +33,7 @@ University at Buffalo, SUNY *May 2020*
 ![rep](/assets/img/rep.png)
 - Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
 - However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
+![rep2](/assets/img/rep2.png)
 
 
 ### What Psychological Barriers Prevent LGB People from Coming Out?
@@ -47,7 +48,7 @@ University at Buffalo, SUNY *May 2020*
 
 - We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
 - Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
-- Expectation and prejudice attribution did not explain the difference
+- Expectation and prejudice attribution are not related to this difference
 
 ![Ingroup](/assets/img/ingroup.png)
 

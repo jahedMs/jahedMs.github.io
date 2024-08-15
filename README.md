@@ -71,4 +71,3 @@ University at Buffalo, SUNY *May 2020*
 - Correlational Research & Statistics
 - Intergroup Relations
 
-### [Full CV](https://docs.google.com/document/d/18nSS4Ed2yeqdG1XgUmOSMgsSAdB1VLLOBWFVRXyKEJo/edit?usp=sharing)

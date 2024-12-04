@@ -79,11 +79,20 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 
 #### Findings
 
--   
+ ![Graph1](/assets/img/FINDING1.png)
 
-    ![rep](/assets/img/FINDING1.png)
+ ![Graph2](/asset/img/FINDING2.png)
 
--   ![rep](/asset/img/FINDING2.png) \#### Significance \*\*\*\*\*\*\*\*\*\*\*It is known that engaging in prosocial behaviours increases well-being (Martela & Ryan, 2016).
+ 
+So... What does this mean?
+
+
+*
+*
+
+
+#### Significance
+* It is known that engaging in prosocial behaviours increases well-being (Martela & Ryan, 2016).
 
 #### References
 

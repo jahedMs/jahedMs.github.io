@@ -36,14 +36,14 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 
 *Predictor Variables*
 
-1.  Peer Civic Engagement
+<ins>  Peer Civic Engagement </ins> 
 
 -   Composite of the following three items. Prompt: How much do you agree or disagree with the following statements? Answer Option: Scale ranging from 1(Strongly Disagree) to 5(Strongly Agree).
     -   I talk to my friends about problems in society and political issues.
     -   I have close friends who particiapnts in political activities.
     -   I have close friends who do volunteer work in the community.
 
-2.  Parental Civic Engagement
+<ins> Parental Civic Engagement </ins> 
 
 -   Composite of the following four items. Prompt: How much do you agree or disagree with the following statements? Answer Option: Scale ranging from 1(Strongly Disagree) to 5(Strongly Agree).
     -   My parents/guardians are active in the community.
@@ -51,7 +51,7 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
     -   My aprents/guardians do volunteer work in the community.
     -   I talk to my parents/guardians about problems in society and political issues.
 
-3.  Critical News Consumption
+<ins> Critical News Consumption </ins> 
 
 -   Note: News is defined as media sources of news and informatin such as newspapers, magazines and the internet. This variable is a measure of how critically teenagers approach the new information they learn from these sources.
 -   Composite of the following two items. Prompt: How much are the following like you? Answer Option: Scale ranging from 1 (Not at all like me) to 5 (A lot like me).
@@ -60,7 +60,7 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 
 *Outcome Variables*
 
-1.  Teen Civic Engagement
+<ins> Teen Civic Engagement </ins>
 
 -   Composite of the following five items. Prompt: How often have you participated in each of the following activities since the time you started high school? Answer Option: Scale ranging from 1 (Never) to 4 (Regularly).
     -   Helped with a fund-raising project.

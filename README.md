@@ -78,21 +78,29 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 -   [My Analytical Code](https://github.com/jahedMs/MyProject_PSY329_FINAL/blob/main/Final_MyProject_PSY329.md)
 
 #### Findings
-
+1. We found that peer influence was greater than parental influence on teen civic engagement.
  ![Graph1](/assets/img/Graph1.png)
 
+    * As seen in this figure, both peers and parents have a very big influence on the level of civic engagement teenagers engage in. However, this influence is much bigger when it comes from peers.
+
+2. We found that when taking critical news consumption is taken into account, parents are no longer a strong predictor of teen civic engagement, while peers remain the strongest predictor.
  ![Graph2](/assets/img/Graph2.png)
 
+    * Here, we can see that critically consumming news is a strong predictor of civic engagement in teenagers. This influence is greater than parental influence, but remains smaller than peer influence.
+    * Overall we conclude that the greatest predictor of teen civic engagement is peer civic engagement.
  
 What does this mean?
-
-
-*
-*
+* This study shows that of parents, peers, and media consumption, it is peers who play the greatest role in predicting whether teenagers will engage in civic engagement. 
+* Surprisingly, a critical approach to consuming new information seems to also be a strong predictor, and has a greater influence than parental civic engagement.
 
 
 #### Significance
 * It is known that engaging in prosocial behaviours increases well-being (Martela & Ryan, 2016).
+* As such, it is important to determine ways of increasing prosocial behaviour in teenagers to ensure they are well as they navigate a challenging developmental period.
+* Based on our results, it is the influence of peers and their pattern of involvement in civic engagements, as well as being critical when learning new information, that most improve civic engagement in teenagers.
+* Since civic engagement is not directly representative of prosocial behaviour,  it is fair to wonder whether that a similar result would be seen if investigating influences on teenage prosocial behaviour. Further reserach is needed to draw conclusions about this.
+* Here, we mainly show that civic engagement can be increased in teenagers by creating interventions that target peer groups as teens engaged in the desired behaviour will likely influence each other.
+* In addition, interventions aimed at increasing critical thinking skills when learning new information, especially within the context of the forms of media, such as short-form videos, that are most commonly used by teenagers can further increase civic engagement.
 
 #### References
 

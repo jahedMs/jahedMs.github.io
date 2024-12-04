@@ -79,9 +79,9 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 
 #### Findings
 
- ![Graph1](/assets/img/FINDING1.png)
+ ![Graph1](/assets/Graph1.png)
 
- ![Graph2](/asset/img/FINDING2.png)
+ ![Graph2](/asset/Graph2.png)
 
  
 So... What does this mean?

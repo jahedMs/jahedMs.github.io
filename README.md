@@ -81,7 +81,7 @@ Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student s
 
  ![Graph1](/assets/img/Graph1.png)
 
- ![Graph2](/asset/img/Graph2.png)
+ ![Graph2](/assets/img/Graph2.png)
 
  
 What does this mean?

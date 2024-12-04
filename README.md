@@ -1,74 +1,102 @@
 ---
 permalink: /
-title: "Colin's Website"
+title: "Mursal's Website"
 ---
 
-# About me 👋 
-Hi everyone, my name is Colin 😊 I'm a second-year PhD student in the social and personality psychology program at the University of Toronto 🍁
+# About me
 
-## Research Interests
-- Prejudice and Discrimination 😒
-- Diversity and Representation 🧑🏿‍🤝‍🧑🏻🌎
-- LGBTQ+ 🌈
-- Mental Well-being 😄
-- Measurement 📏
+Hi everyone, my name is Mursal. I'm a fourth-year Bachelor of Sciences student specializing in Psychology with a minor in Physiology at the University of Toronto. This portfolio is a space for me to share my current research projects as an aspiring graduate researcher.
 
-## Education
-**Ph.D.** Social-Personality Psychology  
-University of Toronto *May 2027 (Expected)*
+# Research Projects
 
-**M.A.** General-Experimental Psychology  
-Wake Forest University *May 2023*			        		
+## PSY329: Social Psychology Laboratory Course
 
-**B.A.** Psychology (Honors)  
-University at Buffalo, SUNY *May 2020*
+### Parental, Peer and Critical News Consumption Influences On Teen Civic Engagement
 
+-   As observed by many parents, once a child reaches adolescence, there seems to be an increase in the influence of peers on the behaviours their teen engages in.
+-   Though both parental and peer influences in adolescence have been studied in the context of maladaptive behaviours, such as risk-taking behaviours in general (Tomé et al., 2012), substance use (Rusby et al., 2018), and internet addiction (Soh et al., 2018), no conclusions have been drawn in terms of the greatest source of influence on teenage prosocial behaviour.
+-   Prosocial behaviour is defined as any behaviour that is meant to benefit or help one or more people (APA Dictionary of Psychology, 2014).
+-   In addition to parents and peers, the increased prevalence of media consumption daily, namely through short-form videos has also inspired researchers to investigate the influence of these on teen prosocial behaviours (Li & Li, 2024). However, it remains unclear how their influence compares to that of parents and peers in the prosocial context.
+-   Despite not being an exact measure of prosocial behaviour, **civic engagement** via activities like helping with a fund-raising project, giving money to a cause, giving help (for example, money, food, clothing, or rides) to friends or classmates in need, volunteering at a school event, or volunteering with a community service organization can be a good first step in exploring different infleunces on the tendency of teenagers to engage in helpful behaviours.
 
-## Projects in Preparation
-### What Types of Representation Do Marginalized Group Members Value More?
+#### Objective
 
-- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity and/or someone who shares their values
-- So we developed a scale to measure identity-based and values-based representation and validated it in a workplace context
-- Both types of representation are correlated with well-being and performance outcomes
-![rep](/assets/img/rep.png)
-- Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
-- However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
-![rep2](/assets/img/rep2.png)
+-   In this research project, I aim to explore which of parents or peers has a greater influence on teen civic engagement. Additionally, I investigate whether teens being critical when consuming media where they learn new information will influence this relationship.
 
+#### Approach
 
-### What Psychological Barriers Prevent LGB People from Coming Out?
+-   The data in this project belongs to the open-source dataset seen in Stanford Civic Purpose Project, a California, U.S., longitudinal study of civic engagement (Damson, 2017).
+-   Data collection occured from 2011-2013, in the context of a longitudinal study.
+-   [The Original Dataset](https://www.icpsr.umich.edu/web/ICPSR/studies/36561)
+-   Data was collected via self-report forms. This means participants were presented with a list of statements, and prompted to share the level to which they agree or disagree with the statement with Likert-type scales of varying lenghts, depending on the construct measured.
+-   Here, I take a cross-sectional approach to answer my research question, using data collected at the first timepoint (November
+    2011) only.
 
-- We used a national probability longitudinal dataset to explore the relationship between minority stressors (i.e., unique stressors experienced by sexual minorities) and coming out to a straight friend
-- Suprisingly, the more everyday discrimination one experienced in the previous year, the more they likely they are going to come out in the next year
-- This finding still holds after taking into account other minority stressors, demographics, perceived sexual orientation visibility, and disclosure history
+*Participants* \* N = 1,578 high school seniors from schools in three regions with high regional, ethnic, and immigrant diversity in the state of California, in the United States of America. \* Mean age = 16.9 years old. \* 48% Men, 52% Women.
 
-![lgb](/assets/img/lgb.png)
+*Predictor Variables*
 
-### Does Ingroup Prejudice Hurt Asian Americans More?
+1.  Peer Civic Engagement
 
-- We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
-- Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
-- Expectation and prejudice attribution are not related to this difference
+-   Composite of the following three items. Prompt: How much do you agree or disagree with the following statements? Answer Option: Scale ranging from 1(Strongly Disagree) to 5(Strongly Agree).
+    -   I talk to my friends about problems in society and political issues.
+    -   I have close friends who particiapnts in political activities.
+    -   I have close friends who do volunteer work in the community.
 
-![Ingroup](/assets/img/ingroup.png)
+2.  Parental Civic Engagement
 
-### Do People Hold More Prejudice Towards Bisexual Singles?
+-   Composite of the following four items. Prompt: How much do you agree or disagree with the following statements? Answer Option: Scale ranging from 1(Strongly Disagree) to 5(Strongly Agree).
+    -   My parents/guardians are active in the community.
+    -   My parents/guardians are active in local politics (e.g., school board, city council).
+    -   My aprents/guardians do volunteer work in the community.
+    -   I talk to my parents/guardians about problems in society and political issues.
 
-- We asked people to rate single people with different sexual orientation backgrounds and found that people's assumptions about bisexual single people are more negative than gay/lesbian single people 
-- This prejudice primarily comes from non-single people 
-- The belief that bisexual people have more choices of potential dating partners partially explains the rating
+3.  Critical News Consumption
 
-![Bi](/assets/img/bisingle.png)
+-   Note: News is defined as media sources of news and informatin such as newspapers, magazines and the internet. This variable is a measure of how critically teenagers approach the new information they learn from these sources.
+-   Composite of the following two items. Prompt: How much are the following like you? Answer Option: Scale ranging from 1 (Not at all like me) to 5 (A lot like me).
+    -   When I see or read a news story about an issue, I try to figure out if they're just telling one side of the story.
+    -   When I hear news about politics, I try to figure out what is really going on.
 
+*Outcome Variables*
 
-## Publications
-1.	**Li, K. C.**, van Berlekom, E., Atwood, S., & Wang, Y.-C. (2024). Towards inclusive and equitable LGBTIQ+ measurement: Assessing gender and sexual orientation measures and scale validity in national surveys across 21 countries. *Journal of Social Issues*, 1-27. https://doi.org/10.1111/josi.12635 
+1.  Teen Civic Engagement
 
-2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
+-   Composite of the following five items. Prompt: How often have you participated in each of the following activities since the time you started high school? Answer Option: Scale ranging from 1 (Never) to 4 (Regularly).
+    -   Helped with a fund-raising project.
+    -   Gave help (e.g., money, food, clothing, rides) to friends or classmates who needed it.
+    -   Volunteered at a school event.
+    -   Gave money to a cause.
+    -   Volunteered with a community service organization.
 
-## Teaching
-- Social Psychology Lab
-- Experimental Research & Statistics
-- Correlational Research & Statistics
-- Intergroup Relations
+*Analysis*
 
+-   I tested the relationship between peer civic engagement, parental civic engagement and teenage civic engagement while taking into account teen critical news consumption by using a multiple regression model.
+
+-   Reasoning: The decision to conduct a multiple regression to answer this research question is due to the multiple influences that are being investigated in this project. This statistical test allows us to assess the unique influence of each variable on teen civic engagement, making it our best option to determine which has a stronger role.
+
+-   [My Analytical Code](https://github.com/jahedMs/MyProject_PSY329_FINAL/blob/main/Final_MyProject_PSY329.md)
+
+#### Findings
+
+-   
+
+    ![rep](/assets/img/FINDING1.png)
+
+-   ![rep](/asset/img/FINDING2.png) \#### Significance \*\*\*\*\*\*\*\*\*\*\*It is known that engaging in prosocial behaviours increases well-being (Martela & Ryan, 2016).
+
+#### References
+
+APA Dictionary of Psychology. (2014). APA dictionary of psychology. Apa.org. <https://dictionary.apa.org/prosocial>
+
+Damson, W. (2017). Stanford civic purpose project: Longitudinal study of youth civic engagement in california, 2011-2013. Umich.edu. <https://doi.org/10.3886/ICPSR36561.v1>
+
+Li, Q., & Li, N. (2024). Social media and adolescents’ prosocial behavior: Evidence of the interaction between short videos and social value orientation. Psychology Research and Behavior Management, Volume 17, 3267–3281. <https://doi.org/10.2147/prbm.s469641>
+
+Martela, F., & Ryan, R. M. (2016). Prosocial behavior increases well-being and vitality even without contact with the beneficiary: Causal and behavioral evidence. Motivation and Emotion, 40(3), 351–357. <https://doi.org/10.1007/s11031-016-9552-z>
+
+Rusby, J. C., Light, J. M., Crowley, R., & Westling, E. (2018). Influence of parent–youth relationship, parental monitoring, and parent substance use on adolescent substance use onset. Journal of Family Psychology, 32(3), 310–320. <https://doi.org/10.1037/fam0000350>
+
+Soh, P. C.-H., Chew, K. W., Koay, K. Y., & Ang, P. H. (2018). Parents vs peers’ influence on teenagers’ internet addiction and risky online activities. Telematics and Informatics, 35(1), 225–236. <https://doi.org/10.1016/j.tele.2017.11.003>
+
+Tomé, G., Matos, M., Simões, C., Diniz, J. A., & Camacho, I. (2012). How can peer group influence the behavior of adolescents: Explanatory model. Global Journal of Health Science, 4(2). <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4777050/>
